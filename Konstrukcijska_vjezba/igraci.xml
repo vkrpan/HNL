@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<igrac id="1" oib="1" ime="Arijan" prezime="Ademi" klub="GNK Dinamo"/>
+	<igrac id="1" oib="2" ime="Emir" prezime="Dilaver" klub="GNK Dinamo"/>
+	<igrac id="1" oib="3" ime="Bartol" prezime="Franjic" klub="GNK Dinamo"/>
+	<igrac id="1" oib="4" ime="Mario" prezime="Gavranovic" klub="GNK Dinamo"/>
+	<igrac id="1" oib="5" ime="Amer" prezime="Gojak" klub="GNK Dinamo"/>
+	<igrac id="1" oib="6" ime="Marin" prezime="Leovac" klub="GNK Dinamo"/>
+	<igrac id="1" oib="7" ime="Lovro" prezime="Majer" klub="GNK Dinamo"/>
+	<igrac id="1" oib="8" ime="Mislav" prezime="Orsic" klub="GNK Dinamo"/>
+	<igrac id="1" oib="9" ime="Dino" prezime="Peric" klub="GNK Dinamo"/>
+	<igrac id="1" oib="10" ime="Josip" prezime="Sutalo" klub="GNK Dinamo"/>
+	<igrac id="1" oib="11" ime="Danijel" prezime="Zagorac" klub="GNK Dinamo"/>
+
+	<igrac id="2" oib="12" ime="Petar" prezime="Bocaj" klub="NK Osijek"/>
+	<igrac id="2" oib="13" ime="Ante" prezime="Erceg" klub="NK Osijek"/>
+	<igrac id="2" oib="14" ime="Eros" prezime="Grezda" klub="NK Osijek"/>
+	<igrac id="2" oib="15" ime="Alen" prezime="Grgic" klub="NK Osijek"/>
+	<igrac id="2" oib="16" ime="Vedran" prezime="Jugovic" klub="NK Osijek"/>
+	<igrac id="2" oib="17" ime="Danijel" prezime="Loncar" klub="NK Osijek"/>
+	<igrac id="2" oib="18" ime="Dmytro" prezime="Lopa" klub="NK Osijek"/>
+	<igrac id="2" oib="19" ime="Juraj" prezime="Ljubic" klub="NK Osijek"/>
+	<igrac id="2" oib="20" ime="Martin" prezime="Sekulic" klub="NK Osijek"/>
+	<igrac id="2" oib="21" ime="Mile" prezime="Skoric" klub="NK Osijek"/>
+	<igrac id="2" oib="22" ime="Gutieri" prezime="Tomelin" klub="NK Osijek"/>
+
+	<igrac id="3" oib="23" ime="Hrvoje" prezime="Babec" klub="HNK Gorica"/>
+	<igrac id="3" oib="24" ime="Younes" prezime="Delfi" klub="HNK Gorica"/>
+	<igrac id="3" oib="25" ime="Alibi" prezime="Doka" klub="HNK Gorica"/>
+	<igrac id="3" oib="26" ime="Matija" prezime="Dvornekovic" klub="HNK Gorica"/>
+	<igrac id="3" oib="27" ime="Aleksandar" prezime="Jovicevic" klub="HNK Gorica"/>
+	<igrac id="3" oib="28" ime="Kristijan" prezime="Kahlina" klub="HNK Gorica"/>
+	<igrac id="3" oib="29" ime="Kristijan" prezime="Lovric" klub="HNK Gorica"/>
+	<igrac id="3" oib="30" ime="Dieye" prezime="Matar" klub="HNK Gorica"/>
+	<igrac id="3" oib="31" ime="Josip" prezime="Mitrovic" klub="HNK Gorica"/>
+	<igrac id="3" oib="32" ime="Nasiru" prezime="Moro" klub="HNK Gorica"/>
+	<igrac id="3" oib="33" ime="Joey" prezime="Suk" klub="HNK Gorica"/>
+
+	<igrac id="4" oib="34" ime="Zoran" prezime="Arsenic" klub="HNK Rijeka"/>
+  <igrac id="4" oib="35" ime="Filip" prezime="Braut" klub="HNK Rijeka"/>
+  <igrac id="4" oib="36" ime="Luka" prezime="Capan" klub="HNK Rijeka"/>
+  <igrac id="4" oib="37" ime="Niko" prezime="Galesic" klub="HNK Rijeka"/>
+  <igrac id="4" oib="38" ime="Adam" prezime="Cerin" klub="HNK Rijeka"/>
+  <igrac id="4" oib="39" ime="Tibor" prezime="Halilovic" klub="HNK Rijeka"/>
+  <igrac id="4" oib="40" ime="Ivor" prezime="Pandur" klub="HNK Rijeka"/>
+  <igrac id="4" oib="41" ime="Ivan" prezime="Lepinjica" klub="HNK Rijeka"/>
+  <igrac id="4" oib="42" ime="Stjepan" prezime="Loncar" klub="HNK Rijeka"/>
+  <igrac id="4" oib="43" ime="Robert" prezime="Muric" klub="HNK Rijeka"/>
+  <igrac id="4" oib="45" ime="Hrvoje" prezime="Smolcic" klub="HNK Rijeka"/>
+
+  <igrac id="5" oib="46" ime="Mijo" prezime="Caktas" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="47" ime="David" prezime="Colina" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="48" ime="Mario" prezime="Cuic" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="49" ime="Ivan" prezime="Dolcek" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="50" ime="Adam" prezime="Gyurcso" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="51" ime="Adrian" prezime="Ismajli" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="52" ime="Stanko" prezime="Juric" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="53" ime="Leon" prezime="Krekovic" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="54" ime="Nihad" prezime="Mujakic" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="55" ime="Josip" prezime="Posavec" klub="HNK Hajduk Split"/>
+  <igrac id="5" oib="56" ime="Stefan" prezime="Simic" klub="HNK Hajduk Split"/>
+
+  <igrac id="6" oib="57" ime="Stipe" prezime="Grgic" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="58" ime="Martin" prezime="Boakye" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="59" ime="Tomislav" prezime="Bozic" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="60" ime="Arijan" prezime="Brkovic" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="61" ime="Ivan" prezime="Filipovic" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="62" ime="Nemanja" prezime="Glavcic" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="63" ime="Bruno" prezime="Goda" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="64" ime="Miroslav" prezime="Ilicic" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="65" ime="Karlo" prezime="Lulic" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="66" ime="Goran" prezime="Paracki" klub="NK Slaven Belupo"/>
+  <igrac id="6" oib="67" ime="Vinko" prezime="Soldo" klub="NK Slaven Belupo"/>
+
+  <igrac id="7" oib="68" ime="Isnik" prezime="Alimi" klub="HNK Sibenik"/>
+  <igrac id="7" oib="69" ime="Ivica" prezime="Batarelo" klub="HNK Sibenik"/>
+  <igrac id="7" oib="70" ime="Karlo" prezime="Bilic" klub="HNK Sibenik"/>
+  <igrac id="7" oib="71" ime="Mario" prezime="Curic" klub="HNK Sibenik"/>
+  <igrac id="7" oib="72" ime="Deni" prezime="Juric" klub="HNK Sibenik"/>
+  <igrac id="7" oib="73" ime="Josip" prezime="Kvesic" klub="HNK Sibenik"/>
+  <igrac id="7" oib="74" ime="Ivan" prezime="Laca" klub="HNK Sibenik"/>
+  <igrac id="7" oib="75" ime="Arian" prezime="Mrsulja" klub="HNK Sibenik"/>
+  <igrac id="7" oib="76" ime="Martin" prezime="Pajic" klub="HNK Sibenik"/>
+  <igrac id="7" oib="77" ime="Boris" prezime="Pandza" klub="HNK Sibenik"/>
+  <igrac id="7" oib="78" ime="Emir" prezime="Sahiti" klub="HNK Sibenik"/>
+
+  <igrac id="8" oib="79" ime="Mario" prezime="Budimir" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="80" ime="Moutir" prezime="Chajia" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="81" ime="Enis" prezime="Cokaj" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="82" ime="Ivan" prezime="Celikovic" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="83" ime="Marko" prezime="Djira" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="84" ime="Petar" prezime="Gluhakovic" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="85" ime="Krunoslav" prezime="Hendija" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="86" ime="Aliyu" prezime="Ibrahim" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="87" ime="Sherif" prezime="Kallaku" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="88" ime="Fran" prezime="Karacic" klub="NK Lokomotiva"/>
+  <igrac id="8" oib="89" ime="Stipo" prezime="Markovic" klub="NK Lokomotiva"/>
+
+  <igrac id="9" oib="90" ime="Leon" prezime="Benko" klub="NK Varazdin"/>
+  <igrac id="9" oib="91" ime="Ivan" prezime="Delic" klub="NK Varazdin"/>
+  <igrac id="9" oib="92" ime="Neven" prezime="Djurasek" klub="NK Varazdin"/>
+  <igrac id="9" oib="93" ime="Agon" prezime="Elezi" klub="NK Varazdin"/>
+  <igrac id="9" oib="94" ime="Jurica" prezime="Grgec" klub="NK Varazdin"/>
+  <igrac id="9" oib="95" ime="Dinko" prezime="Horkas" klub="NK Varazdin"/>
+  <igrac id="9" oib="96" ime="Matija" prezime="Kolaric" klub="NK Varazdin"/>
+  <igrac id="9" oib="97" ime="Kerim" prezime="Memija" klub="NK Varazdin"/>
+  <igrac id="9" oib="98" ime="Stefan" prezime="Milic" klub="NK Varazdin"/>
+  <igrac id="9" oib="99" ime="Matej" prezime="Senis" klub="NK Varazdin"/>
+  <igrac id="9" oib="100" ime="Marko" prezime="Stolnik" klub="NK Varazdin"/>
+
+  <igrac id="10" oib="101" ime="Slavko" prezime="Blagojevic" klub="NK Istra 1961"/>
+  <igrac id="10" oib="102" ime="Petar" prezime="Bosancic" klub="NK Istra 1961"/>
+  <igrac id="10" oib="103" ime="Adrian" prezime="Gonzalez" klub="NK Istra 1961"/>
+  <igrac id="10" oib="104" ime="Sime" prezime="Grzan" klub="NK Istra 1961"/>
+  <igrac id="10" oib="105" ime="Gedeon" prezime="Guzina" klub="NK Istra 1961"/>
+  <igrac id="10" oib="105" ime="Luka" prezime="Hujber" klub="NK Istra 1961"/>
+  <igrac id="10" oib="106" ime="Lovro" prezime="Juric" klub="NK Istra 1961"/>
+  <igrac id="10" oib="107" ime="Stefan" prezime="Loncar" klub="NK Istra 1961"/>
+  <igrac id="10" oib="108" ime="Mateo" prezime="Lisica" klub="NK Istra 1961"/>
+  <igrac id="10" oib="109" ime="Lovro" prezime="Majkic" klub="NK Istra 1961"/>
+  <igrac id="10" oib="110" ime="Arona" prezime="Sane" klub="NK Istra 1961"/>
+</data>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <rezultat rbr="1" klub="GNK Dinamo" brojUtakmica="36" bodovi="46" pobjeda="11" nerijeseno="13" golRazlika="1" zabijenihGolova="39" />
+  <rezultat rbr="2" klub="NK Osijek" brojUtakmica="36" bodovi="43" pobjeda="9" nerijeseno="16" golRazlika="2" zabijenihGolova="79" />
+  <rezultat rbr="3" klub="HNK Gorica" brojUtakmica="36" bodovi="41" pobjeda="9" nerijeseno="14" golRazlika="-3" zabijenihGolova="118" />
+  <rezultat rbr="4" klub="HNK Rijeka" brojUtakmica="36" bodovi="53" pobjeda="15" nerijeseno="8" golRazlika="-1" zabijenihGolova="153" />
+  <rezultat rbr="5" klub="HNK Hajduk Split" brojUtakmica="36" bodovi="49" pobjeda="13" nerijeseno="10" golRazlika="-6" zabijenihGolova="187" />
+  <rezultat rbr="6" klub="NK Slaven Belupo" brojUtakmica="36" bodovi="35" pobjeda="8" nerijeseno="11" golRazlika="-21" zabijenihGolova="213" />
+  <rezultat rbr="7" klub="HNK Sibenik" brojUtakmica="36" bodovi="52" pobjeda="14" nerijeseno="10" golRazlika="-13" zabijenihGolova="253" />
+  <rezultat rbr="8" klub="NK Lokomotiva" brojUtakmica="36" bodovi="50" pobjeda="11" nerijeseno="17" golRazlika="-10" zabijenihGolova="295" />
+  <rezultat rbr="9" klub="NK Varazdin" brojUtakmica="36" bodovi="50" pobjeda="12" nerijeseno="14" golRazlika="-9" zabijenihGolova="328" />
+  <rezultat rbr="10" klub="NK Istra 1961" brojUtakmica="36" bodovi="57" pobjeda="14" nerijeseno="15" golRazlika="0" zabijenihGolova="373" />
+</data>

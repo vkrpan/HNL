@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <klub id="1" naziv="GNK Dinamo" trener="Zoran Mamić" grad="Zagreb" stadion="Maksimir" osnovan="1911."/>
+  <klub id="2" naziv="NK Osijek" trener="Nenad Bjelica" grad="Osijek" stadion="Gradski vrt" osnovan="1947."/>
+  <klub id="3" naziv="HNK Gorica" trener="Valdas Dambrauskas" grad="Velika Gorica" stadion="ŠRC Velika Gorica" osnovan="2009."/>
+  <klub id="4" naziv="HNK Rijeka" trener="Simon Rožman" grad="Rijeka" stadion="HNK Rijeka" osnovan="1946." />
+  <klub id="5" naziv="HNK Hajduk Split" trener="Boro Primorac" grad="Split" stadion="Poljud" osnovan ="1911."/>
+  <klub id="6" naziv="NK Slaven Belupo" trener="Tomislav Stipić" grad="Koprivnica" stadion="Gradski stadion" osnovan="1907."/>
+  <klub id="7" naziv="HNK Sibenik" trener="Krunoslav Rendulić" grad="Šibenik" stadion="Šubićevac" osnovan="1932."/>
+  <klub id="8" naziv="NK Lokomotiva" trener="Goran Tomić" grad="Zagreb" stadion="Kranjčevićeva" osnovan="1914."/>
+  <klub id="9" naziv="NK Varazdin" trener="Stjepan Cvek" grad="Varaždin" stadion="Varteks" osnovan="2012."/>
+  <klub id="10" naziv ="NK Istra 1961" trener ="Fausto Budicin" grad="Istra" stadion="Aldo Drosina" osnovan="1961."/>
+</data>
